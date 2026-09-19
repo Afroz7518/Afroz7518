@@ -1,37 +1,297 @@
-<h1 align="center">Hi 👋, I'm Afroz Alam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- ========================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afroz7518&label=Profile%20views&color=0e75b6&style=flat" alt="afroz7518" /> </p>
+<!--        HERO SECTION       -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afroz7518" alt="afroz7518" /></a> </p>
+<!-- ========================= -->
 
-- 🔭 I’m currently working on [Fin-Track](https://github.com/Afroz7518/Fin-Track)
+<div align="center">
 
-- 🌱 I’m currently learning **Mern Stack, Dsa**
+# 👋 Hi, I'm Afroz Alam
 
-- 👯 I’m looking to collaborate on [Foodyfy](https://github.com/Afroz7518/Foodyfy)
+### 💻 Full Stack Developer | MERN Stack Developer | Problem Solver
 
-- 🤝 I’m looking for help with [Foodyfy](https://github.com/Afroz7518/Foodyfy)
-
-- 💬 Ask me about **Full Stack Dev**
-
-- 📫 How to reach me **afrozraj94@gmail.com**
-
-- ⚡ Fun fact **Singing**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/afrozalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afrozalam" height="30" width="40" /></a>
-<a href="https://kaggle.com/afrozraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="afrozraj" height="30" width="40" /></a>
-<a href="https://instagram.com/afroz__96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afroz__96" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/afrozraj94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="afrozraj94" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/afroz7518">
+    <img src="https://img.shields.io/github/followers/afroz7518?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/afroz7518">
+    <img src="https://img.shields.io/github/stars/afroz7518?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/afroz7518">
+    <img src="https://komarev.com/ghpvc/?username=afroz7518&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://linkedin.com/in/afrozalam">
+    <img src="https://img.shields.io/badge/LinkedIn-Afroz%20Alam-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:afrozraj94@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/afrozraj94">
+    <img src="https://img.shields.io/badge/LeetCode-Afrozraj94-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afroz7518&show_icons=true&locale=en&layout=compact" alt="afroz7518" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afroz7518&show_icons=true&locale=en" alt="afroz7518" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afroz7518&" alt="afroz7518" /></p>
+## 🚀 About Me
+
+```text
+👨‍💻 Full Stack Developer passionate about building scalable web applications
+🌱 Currently learning MERN Stack & Data Structures and Algorithms
+🔭 Currently working on Fin-Track
+🍔 Collaborating on Foodyfy — Restaurant & Food Ordering Application
+💡 Interested in Full Stack Development, APIs, Databases & Problem Solving
+🎯 Goal: Build impactful and production-ready applications
+🎵 Fun fact: I love Singing
+```
+
+---
+
+## 🧑‍💻 What I'm Currently Doing
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 Working On
+
+**Fin-Track**
+
+A personal finance / expense tracking application designed to manage income, expenses and financial summaries.
+
+<a href="https://github.com/Afroz7518/Fin-Track">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🍔 Collaborating On
+
+**Foodyfy**
+
+A full-stack restaurant and food ordering application.
+
+<a href="https://github.com/Afroz7518/Foodyfy">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,typescript" />
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+### ☁️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,aws,linux,figma" />
+</p>
+
+### 🎨 Design & Other Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=afroz7518&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afroz7518&layout=compact&langs_count=8&hide_border=true&border_radius=15&theme=tokyonight" height="180"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=afroz7518&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/afroz7518">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=afroz7518&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Afroz Alam GitHub Activity Graph"/>
+
+</a>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/afroz7518">
+
+<img src="https://github-profile-trophy.vercel.app/?username=afroz7518&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+
+</a>
+
+</div>
+
+---
+
+# ⭐ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Afroz7518/Fin-Track">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Afroz7518&repo=Fin-Track&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
+
+<a href="https://github.com/Afroz7518/Foodyfy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Afroz7518&repo=Foodyfy&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Afroz7518/ATMOS-Weather-APP">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Afroz7518&repo=ATMOS-Weather-APP&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
+
+</div>
+
+---
+
+# 📌 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afroz7518&theme=tokyonight" width="100%" alt="GitHub Profile Summary"/>
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/afrozraj94">
+<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.kaggle.com/afrozraj">
+<img src="https://img.shields.io/badge/Kaggle-Explore%20Data-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/afrozalam">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+  
+
+<a href="https://www.instagram.com/afroz__96">
+<img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+</a>
+
+  
+
+<a href="https://www.kaggle.com/afrozraj">
+<img src="https://skillicons.dev/icons?i=kaggle" width="45"/>
+</a>
+
+  
+
+<a href="https://github.com/afroz7518">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+</div>
+
+---
+
+# 📊 More GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=afroz7518&theme=tokyonight" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afroz7518&theme=tokyonight" width="48%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/afroz7518/afroz7518/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+### 💬 Ask me about Full Stack Development, MERN Stack & Web Development
+
+### 📩 Email: **[afrozraj94@gmail.com](mailto:afrozraj94@gmail.com)**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=120&section=footer"/>
+
+</div>
