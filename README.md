@@ -60,11 +60,11 @@
 
 ### 🔭 Working On
 
-**Fin-Track**
+**Ai-Social-Media-App
 
-A personal finance / expense tracking application designed to manage income, expenses and financial summaries.
+A Social media dashboard application designed to manage post, message, engaged traffic.
 
-<a href="https://github.com/Afroz7518/Fin-Track">
+<a href="https://github.com/Afroz7518/AI-Social-Media-App.git">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
